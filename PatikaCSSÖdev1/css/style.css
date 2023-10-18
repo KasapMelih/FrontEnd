@@ -1,0 +1,22 @@
+.header {
+    color: rgb(57, 42, 42);
+    text-align: center;
+}
+
+.navbar{
+    text-align: center;
+    font-size: larger;
+    
+    margin: 20px auto;
+}
+
+.text{
+    font-size: large;
+    
+}
+
+.info{
+    text-align: center;
+    list-style-position: inside;
+    font-size: large;
+}
